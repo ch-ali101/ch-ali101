@@ -1,85 +1,118 @@
-<!-- HERO -->
-<h1 align="center">Hi 👋, I'm Ali Gohar</h1>
-<p align="center">
-  <b>Software Engineer • React / Next.js Developer • Full-Stack Web Apps</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:24292e,100:7928ca&height=250&section=header&text=Ali%20Gohar&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <a href="https://ali-gohar.vercel.app"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/chali101"><b>LinkedIn</b></a> •
-  <a href="mailto:chaligohar101@gmail.com"><b>Email</b></a>
-</p>
+  <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ch-ali101&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ch-ali101?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/ch-ali101?style=flat-square" />
-</p>
+  <h1>🚀 Full-Stack Software Engineer & Next.js Architect</h1>
 
-<!-- TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+Developer;Full-Stack+Web+Applications;REST+APIs+%7C+Payments+%7C+Performance+Optimization;Deployed+on+Vercel+%26+VPS" />
-</p>
+  <p align="center">
+    <a href="https://ali-gohar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+    <a href="https://linkedin.com/in/chali101"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:chaligohar101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
-<hr/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A97BFF&center=true&vCenter=true&width=600&lines=Next.js+Specialist;Full-Stack+Web+Developer;REST+APIs+%7C+PostgreSQL+%7C+Supabase;High-Performance+App+Architect" />
 
-## 🚀 About Me
-- 🔭 Building scalable **Next.js / React** web applications  
-- 🧩 Strong in **REST API integration, state management, performance optimization**
-- 💳 Experienced with **Payment Gateways** & production deployments (**Vercel / VPS**)  
-- 📍 Lahore, Pakistan  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ch-ali101&label=PROFILE+VIEWS&color=7928ca&style=flat-square" />
+</div>
+
+<hr />
+
+## 💫 About Me
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 Experience & Focus</h3>
+      <ul>
+        <li>🔭 Currently building <b>Scalable SaaS Platforms</b> with Next.js 14+.</li>
+        <li>🧩 Expert in <b>Server-Side Rendering (SSR)</b> & Performance Optimization.</li>
+        <li>💳 Specialization in <b>Fintech & Payment Gateway</b> integrations.</li>
+        <li>⚡ Focus on <b>Clean Architecture</b> & Reusable Components.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Quick Overview</h3>
+      <ul>
+        <li>📍 Based in <b>Lahore, Pakistan</b></li>
+        <li>💼 Open for <b>Full-stack / Frontend</b> roles.</li>
+        <li>🌱 Learning <b>Web3 & AI Agentic Frameworks</b>.</li>
+        <li>📫 Let's connect: <b>chaligohar101@gmail.com</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Professional Tech Stack
+
+### 🌐 Frontend Mastery
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,postgres,supabase,tailwind,bootstrap,git,github,vercel&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,redux,sass,html,css&perline=10" />
 </p>
 
----
-
-## 📌 Featured Projects
+### ⚙️ Backend & Database
 <p align="left">
-  <a href="https://sendmydemand.com/"><b>SendMyDemand</b></a> — Next.js + Node.js platform with dynamic content & API integrations<br/>
-  <a href="https://bemyguest.com.pk/"><b>BeMyGuest</b></a> — booking website with responsive UI & smooth navigation<br/>
-  <a href="https://getodooai.com/"><b>GetOdooAI</b></a> — product landing page optimized for SEO & lead generation<br/>
-  <a href="https://almahadoc.com/"><b>AlmahaDoc</b></a> — fast, clean business website with Next.js
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,prisma,firebase,mysql&perline=10" />
 </p>
 
-<!-- OPTIONAL: If you have repos for projects, we can add “repo cards” here -->
-<!-- Example repo card:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ch-ali101&repo=REPO_NAME&theme=tokyonight)](https://github.com/ch-ali101/REPO_NAME)
--->
-
----
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch-ali101&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-ali101&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ch-ali101&theme=tokyonight&hide_border=true" height="170"/>
+### 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman,figma,npm&perline=10" />
 </p>
 
 ---
 
-## 🏆 Trophies
+## 🌟 Featured Projects (Detailed)
+
+<div align="center">
+  
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **SendMyDemand** | Full platform with dynamic API integration & user dashboard. | `Next.js` `Node.js` `Tailwind` | [Visit 🔗](https://sendmydemand.com/) |
+| **BeMyGuest** | Advanced booking system with high-speed UI & smooth UX. | `React` `Express` `MongoDB` | [Visit 🔗](https://bemyguest.com.pk/) |
+| **GetOdooAI** | AI-focused landing page optimized for high SEO ranking. | `Next.js` `Framer Motion` | [Visit 🔗](https://getodooai.com/) |
+| **AlmahaDoc** | Clean, fast, and secure business management website. | `Next.js` `PostgreSQL` | [Visit 🔗](https://almahadoc.com/) |
+
+</div>
+
+---
+
+## 📈 GitHub Statistics (Comprehensive)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ch-ali101&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ch-ali101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch-ali101&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ch-ali101&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Trophies & Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ch-ali101/ch-ali101/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ch-ali101&theme=tokyonight&no-frame=true&column=7" width="100%" />
 </p>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 Contribution Snake Animation</h3>
+  <img src="https://raw.githubusercontent.com/ch-ali101/ch-ali101/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 ---
 
-## 🤝 Connect With Me
-- 🌐 Portfolio: https://ali-gohar.vercel.app  
-- 💼 LinkedIn: https://linkedin.com/in/chali101  
-- ✉️ Email: chaligohar101@gmail.com
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/chali101"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ali-gohar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="mailto:chaligohar101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
