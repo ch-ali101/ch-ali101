@@ -70,21 +70,28 @@
 <div align="center">
   
 <a href="https://github.com/ch-ali101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ch-ali101&repo=REPLACE_WITH_TOP_REPO_NAME&theme=tokyonight&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ch-ali101&repo=ch-ali101&theme=tokyonight&show_owner=true" />
 </a>
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **SendMyDemand** | Full platform with dynamic API integration & user dashboard. | `Next.js` `Node.js` `Tailwind` |(https://sendmydemand.com/) |
-| **BeMyGuest** | Advanced booking system with high-speed UI & smooth UX. | `React` `Express` `MongoDB` |(https://bemyguest.com.pk/) |
-| **GetOdooAI** | AI-focused landing page optimized for high SEO ranking. | `Next.js` `Framer Motion` |(https://getodooai.com/) |
-| **AlmahaDoc** | Clean, fast, and secure business management website. | `Next.js` `PostgreSQL` |(https://almahadoc.com/) |
+| **SendMyDemand** | Full platform with dynamic API integration & user dashboard. | `Next.js` `Node.js` | [Visit 🔗](https://sendmydemand.com/) |
+| **BeMyGuest** | Advanced booking system with high-speed UI & smooth UX. | `React` `MongoDB` | [Visit 🔗](https://bemyguest.com.pk/) |
+| **GetOdooAI** | AI-focused landing page optimized for high SEO ranking. | `Next.js` `Tailwind` | [Visit 🔗](https://getodooai.com/) |
+| **AlmahaDoc** | Clean, fast, and secure business management website. | `Next.js` `Postgres` | [Visit 🔗](https://almahadoc.com/) |
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics (Comprehensive)
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ch-ali101&theme=tokyonight&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📊 GitHub Statistics (Comprehensive)
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ch-ali101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
